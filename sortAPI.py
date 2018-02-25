@@ -9,5 +9,6 @@ def FilterTweet(username=".*", retweetCount=0, favCount=0, language=".*", retwee
 	#	pprint(document)
 	#print data.count()
 	return data
-	
-FilterTweet(username="^p")
+
+#Following is just a test case
+#FilterTweet(username="^p")
